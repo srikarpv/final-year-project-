@@ -1,0 +1,5 @@
+Please add here the dataset to be used...
+
+examples:
+Mnist: http://yann.lecun.com/exdb/mnist/
+Cifar-10: http://www.cs.toronto.edu/~kriz/cifar.html

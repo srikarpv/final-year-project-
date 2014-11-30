@@ -46,9 +46,6 @@ coverage.xml
 *.xls
 *.xls#
 
-#TXT:
-*.txt
-
 #SWP
 *.swp
 
